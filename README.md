@@ -1,1 +1,1 @@
-# blockchain-course-32
+# freeCodeCamp blockchain course 32hr
